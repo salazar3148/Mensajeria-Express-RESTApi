@@ -1,4 +1,4 @@
-name: Continuous integration with github
+name: CI Test With Gradle
 on:
   push:
     branches:
