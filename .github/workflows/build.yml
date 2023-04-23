@@ -13,6 +13,10 @@ jobs:
       uses: actions/setup-java@v2
       with:
         java-version: '11'
+    - name: Set up Gradle
+      uses: gradle/setup-gradle@v1
+      with:
+        distribution: '7.3.3'
     - name: Build with Gradle
       run: ./gradlew build
     - name: Run tests with Gradle
