@@ -14,6 +14,7 @@ Este es un proyecto de API REST para gestionar todo el sistema de paqueteria de 
 - DAO & DTO
 - Swagger
 - CI (Github Actions)
+- Deployment (Railway)
 <br>
 
 <div>
@@ -35,7 +36,11 @@ Este es un proyecto de API REST para gestionar todo el sistema de paqueteria de 
 
 <br>
 
-> Prueba los endpoints con este URL ->  http://localhost:8080/swagger-ui/
+> Prueba los endpoints con este URL ->  [Endpoints](https://mensajeria-express-restapi-production.up.railway.app/swagger-ui/)
+<br>
+> username: root
+> password: root
+<br>
 
 ## ${\color{lightgreen}Reglas\space de \space negocio \space principales}$
 
