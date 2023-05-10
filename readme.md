@@ -433,6 +433,9 @@ Ejemplo de respuesta
 
 ## ${\color{lightgreen}Diagramas}$
 
+- Diagrama de secuencia
+![Diagrama sin título drawio](https://github.com/salazar3148/Mensajeria-Express-RESTApi/assets/105958626/9aee2643-90ea-4e93-a2a2-70e8f0da29f7)
+
 - Modelo Relacional
 ![MR](https://user-images.githubusercontent.com/105958626/233867288-aa039b38-4ef9-4e8c-9f24-1d5194235cb0.png)
 
